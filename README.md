@@ -2,42 +2,29 @@
 
 ### AI/ML Engineer | Computer Vision | Deep Learning
 
-I build intelligent systems using **Python, Deep Learning, and Computer Vision**.
+#### I build intelligent systems using **Python, Deep Learning, and Computer Vision**.
 
-I'm passionate about turning AI ideas into practical, real-world applications. 🚀
+#### I'm passionate about turning AI ideas into practical, real-world applications. 🚀
 
 
-
+---
 ## 🛠️ Tech Stack
 
 ### 💻 Programming Languages
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=py,java,cpp,html,css" />
+  <img src="https://skillicons.dev/icons?i=py,html,css" />
 </p>
 
 ### 🤖 AI / Machine Learning
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,keras,sklearn" />
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" />
 </p>
-
-### 👁️ Computer Vision
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=opencv" />
-</p>
-
-### 📊 Data Science
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=numpy,pandas,matplotlib" />
-</p>
-
 ### 🧰 Tools & Platforms
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,googlecolab,vscode,docker,postman" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,postman" />
 </p>
 
 ### ☁️ Cloud
@@ -46,7 +33,7 @@ I'm passionate about turning AI ideas into practical, real-world applications. �
   <img src="https://skillicons.dev/icons?i=aws" />
 </p>
 
-
+----
 
 ## 🤝 Connect With Me
 
@@ -67,4 +54,3 @@ I'm passionate about turning AI ideas into practical, real-world applications. �
 </p>
 ---
 
-⭐ Thanks for visiting my profile!
