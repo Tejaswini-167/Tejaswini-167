@@ -1,7 +1,5 @@
 # 👋 Hi, I'm Tejaswini Peddireddy
-
 ### AI/ML Engineer | Computer Vision | Deep Learning
-
 #### I build intelligent systems using **Python, Deep Learning, and Computer Vision**.
 
 #### I'm passionate about turning AI ideas into practical, real-world applications. 🚀
@@ -9,7 +7,6 @@
 
 ---
 ## 🛠️ Tech Stack
-
 ### 💻 Programming Languages
 
 <p align="left">
@@ -36,7 +33,6 @@
 ----
 
 ## 🤝 Connect With Me
-
 <p align="left">
 
 <a href="https://www.linkedin.com/in/tejaswini-peddireddy-4250bb295/">
