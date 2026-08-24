@@ -10,17 +10,29 @@ I'm passionate about turning AI ideas into practical, real-world applications. �
 
 ## 🛠️ Tech Stack
 
-**Languages**
+### 💻 Languages
 
-`Python` `Java` `SQL`
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,cpp" />
+</p>
 
-**AI / ML**
+### 🤖 AI / Machine Learning
 
-`PyTorch` `TensorFlow` `Scikit-learn` `YOLO` `OpenCV`
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv,numpy,pandas" />
+</p>
 
-**Tools**
+### 🌐 Development
 
-`Git` `GitHub` `Jupyter` `Docker`
+<p>
+  <img src="https://skillicons.dev/icons?i=fastapi,html,js" />
+</p>
+
+### 🧰 Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,jupyter,docker,postman" />
+</p>
 
 ---
 
