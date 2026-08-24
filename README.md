@@ -10,32 +10,41 @@ I'm passionate about turning AI ideas into practical, real-world applications. �
 
 ## 🛠️ Tech Stack
 
-### 💻 Languages
+### 💻 Programming Languages
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,cpp" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=py,java,cpp,html,css" />
 </p>
 
 ### 🤖 AI / Machine Learning
 
-<p>
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv,numpy,pandas" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,keras,sklearn" />
 </p>
 
-### 🌐 Development
+### 👁️ Computer Vision
 
-<p>
-  <img src="https://skillicons.dev/icons?i=fastapi,html,js" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=opencv" />
 </p>
 
-### 🧰 Tools
+### 📊 Data Science
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,jupyter,docker,postman" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=numpy,pandas,matplotlib" />
 </p>
 
----
+### 🧰 Tools & Platforms
 
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,googlecolab,vscode,docker,postman" />
+</p>
+
+### ☁️ Cloud
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws" />
+</p>
 
 
 
