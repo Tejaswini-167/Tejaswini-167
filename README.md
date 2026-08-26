@@ -22,7 +22,7 @@
 ### 🧰 Tools & Platforms
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,postman" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
 ### ☁️ Cloud
